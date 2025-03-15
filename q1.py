@@ -14,14 +14,14 @@ def swap(x, y):
 
     return 
 
-    # Task 2
-    # Invoke the function "swap" using the following scenarios:
-    # - "Apple", 10
-    # - 9, 17
+# Task 2
+# Invoke the function "swap" using the following scenarios:
+# - "Apple", 10
+# - 9, 17
 
-    # Scenario #1 returns -1, but this is not printed because the returned value is not handled (e.g., via print(swap("Apple", 10)).
-    swap("Apple", 10)
+# Scenario #1 returns -1, but this is not printed because the returned value is not handled (e.g., via print(swap("Apple", 10)).
+swap("Apple", 10)
 
-    # Scenario #2 prints the swapped values and returns None.
-    swap(9, 17)
+# Scenario #2 prints the swapped values and returns None.
+swap(9, 17)
     
